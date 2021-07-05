@@ -50,7 +50,7 @@ function getDaoMedicos() {
 /* const nuevoPaciente = {
     nombre: 'Juan Carlos Paci',
     apellido: 'Rey',
-    email: 'nicolasarbio@outlook.com',
+    email: '',
     f_nac: new Date(),
     dni: 45065477
 }
@@ -58,7 +58,7 @@ const pacienteAgregado = await daoPacientes.add(nuevoPaciente)
 const nuevoMedico = {
     nombre: 'Juan Carlos Medi',
     apellido: 'Rey',
-    email: 'niqo99@gmail.com',
+    email: '',
     f_nac: new Date(),
     dni: 12345678,
     especialidad: 'Otorrinolaringología'
