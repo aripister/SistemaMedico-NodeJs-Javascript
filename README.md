@@ -1,3 +1,7 @@
-# SistemaMedico-NodeJs-Javascript
+Clinical System - API REST (Node.JS)
 
-ApiRest hecho en nodeJs y javascript
+Trabajo practico -  ApiRest con tecnologias nodeJs y javascript 
+
+
+
+
